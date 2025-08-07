@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83782089652",
+    "project_id": "watercheckbdg",
+    "storage_bucket": "watercheckbdg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83782089652:android:b4b166a00015ff6f6b10e1",
+        "android_client_info": {
+          "package_name": "com.example.watercheckbdg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz10z0D4fsiYjPleNE8fMwrBs9DiXiTos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
