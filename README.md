@@ -113,7 +113,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika Anda tidak ingin membangun proyek secara manual, Anda dapat langsung mencoba aplikasi dengan mengunduh APK melalui halaman Itch.io berikut:
 
-🔗 **[Download APK WaterCheckBandung via Itch.io](https://hilmy270301.itch.io/watercheckbandung)** 
+🔗 **[Download APK WaterCheckBandung via Itch.io](https://miko270301.itch.io/bandungwatercheck)** 
 
 ### 📲 Langkah-langkah Instalasi:
 
